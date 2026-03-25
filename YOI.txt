@@ -9,6 +9,7 @@ Yuri Plisetsky＝尤里·普利谢茨基
 //以防万一写个昵称
 Yuuri＝勇利
 Yuri＝尤里
+Viktor＝维克托
 //选手们
 Phichit Chulanont＝披集·朱拉暖
 Seung Gil Lee＝李承吉
