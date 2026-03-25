@@ -88,9 +88,25 @@ Double Loop＝二周后外结环跳
 Triple Loop＝三周后外结环跳
 Quadruple Loop＝四周后外结环跳
 //简写
-Dbl＝二周
-Trip＝三周
-Quad＝四周
+Dbl Axel＝二周半阿克塞尔
+Trip Axel＝三周半阿克塞尔
+Quad Axel＝四周半阿克塞尔
+Dbl Salchow＝二周后内结环
+Trip Salchow＝三周后内结环
+Quad Salchow＝四周后内结环
+Dbl Loop＝二周后外点冰
+Trip Loop＝三周后外点冰
+Quad Loop＝四周后外点冰
+Dbl Flip＝二周后内点冰
+Trip Flip＝三周后内点冰
+Quad Flip＝四周后内点冰
+Dbl Lutz＝二周勾手
+Trip Lutz＝三周勾手
+Quad Lutz＝四周勾手
+Dbl Loop＝二周后外结环
+Trip Loop＝三周后外结环
+Quad Loop＝四周后外结环
+//其他专有名词
 Combination Jump＝组合跳
 Jump Sequence＝连跃
 Euler＝衔接跳
