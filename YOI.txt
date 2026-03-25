@@ -62,16 +62,54 @@ Minako's Dance Studio＝美奈子舞蹈教室
 Sports Champions Club＝冠军运动员俱乐部
 Detroit Skating Club＝底特律滑冰俱乐部
 //专有名词
-//*以下多为较为口语化＆便于理解的翻译，不保证其专业性＆准确性，敬请注意
+//*以下有部分为口语化＆便于理解的对照名词，不保证其专业性＆准确性，敬请注意
 Axel＝阿克塞尔跳
 Double Axel＝两周半阿克塞尔跳
 Triple Axel＝三周半阿克塞尔跳
 Quadruple Axel＝四周半阿克塞尔跳
 Salchow＝后内结环跳
+Double Salchow＝二周后内结环跳
+Triple Salchow＝三周后内结环跳
+Quadruple Salchow＝四周后内结环跳
 Toe Loop＝后外点冰跳
+Double Toe Loop＝二周后外点冰跳
+Triple Toe Loop＝三周后外点冰跳
+Quadruple Toe Loop＝四周后外点冰跳
 Flip＝后内点冰跳
+Double Flip＝二周后内点冰跳
+Triple Flip＝三周后内点冰跳
+Quadruple Flip＝四周后内点冰跳
 Lutz＝勾手跳
+Double Lutz＝二周勾手跳
+Triple Lutz＝三周勾手跳
+Quadruple Lutz＝四周勾手跳
 Loop＝后外结环跳
+Double Loop＝二周后外结环跳
+Triple Loop＝三周后外结环跳
+Quadruple Loop＝四周后外结环跳
+Combination Jump＝组合跳
+Jump Sequence＝连跃
+Euler＝衔接跳
+Half Loop＝半周跳
+Spiral＝燕式滑行
+Biellmann Spin＝贝尔曼旋转
+Camel Spin＝燕式旋转
+Sit Spin＝蹲转
+Upright Spin＝直立旋转
+Flying Spin＝飞身旋转
+Combination Spin＝联合旋转
+Layback Spin＝后仰旋转
+Change Foot Spin＝换足旋转
+Change Edge＝换刃
+Step Sequence＝接续步
+Choreographic Sequence＝编舞动作
+Base Value＝基础分
+GOE＝执行分
+TES＝技术分
+PCS＝节目内容分
+Program Component Score＝节目内容分
+Short Program＝短节目
+Free Skate＝自由滑
 Combination Jump＝组合跳
 Jump Sequence＝连跃
 Euler＝衔接跳
