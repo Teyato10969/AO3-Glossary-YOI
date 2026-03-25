@@ -1,4 +1,4 @@
-维护者：Teyato
+维护者：Eros
 版本号：1.0.0
 更新时间：2026-03-25
 词条
@@ -57,9 +57,9 @@ Detroit＝底特律
 //场馆&店铺
 Yu-Topia Katsuki＝乌托邦胜生
 Ice Castle Hasetsu＝长谷津冰雪城堡
-Hasetsu Castle＝长谷津城
+Hasetsu Castle＝长谷津城堡
 Minako's Dance Studio＝美奈子舞蹈教室
-Sports Champions Club＝冠军运动员俱乐部
+Sports Champions Club＝冠军运动俱乐部
 Detroit Skating Club＝底特律滑冰俱乐部
 //专有名词
 //*以下有部分为口语化＆便于理解的对照名词，不保证其专业性＆准确性，敬请注意
