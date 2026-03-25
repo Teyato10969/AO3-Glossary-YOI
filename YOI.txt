@@ -19,6 +19,7 @@ Michele Crispino＝米凯莱·克里斯皮诺
 Sara Crispino＝萨拉·克里斯皮诺
 Christophe Giacometti＝克里斯托夫·贾科梅蒂
 Georgi Popovich＝格奥尔基·波波维奇
+Anya＝安雅
 Leo de la Iglesia＝雷欧·德·拉·伊格莱西亚
 Ji Guang-Hong＝季光虹
 Minami Kenjirou＝南健次郎
@@ -171,3 +172,4 @@ Hot Springs on Ice＝温泉 on ICE
 //暂时没想到其他的
 Yuri on ICE
 Yuri!!! on Ice
+(Yuri!!! on Ice)
