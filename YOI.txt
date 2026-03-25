@@ -6,7 +6,10 @@
 Katsuki Yuuri＝胜生勇利
 Victor Nikiforov＝维克托·尼基福罗夫
 Yuri Plisetsky＝尤里·普利谢茨基
-//国际滑手
+//以防万一写个昵称
+Yuuri＝勇利
+Yuri＝尤里
+//选手们
 Phichit Chulanont＝披集·朱拉暖
 Seung Gil Lee＝李承吉
 Jean-Jacques Leroy＝让-雅克·勒罗伊
@@ -36,6 +39,7 @@ Minako Okukawa＝奥川美奈子
 Odagaki Kanako＝小田垣香奈子
 //解说
 Morooka Hisashi＝诸冈久志
+通用词条
 //地名
 Hasetsu＝长谷津
 Karatsu＝唐津
