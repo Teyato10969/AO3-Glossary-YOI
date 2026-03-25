@@ -167,8 +167,8 @@ Chugoku-Shikoku-Kyushu Championship＝中国・四国・九州锦标赛
 World Championship＝世界锦标赛
 //曲目
 Stay Close to Me＝《伴我身边，不要离开》
-In Regards to Love: Eros＝《爱是Eros》
-In Regards to Love: Agape＝《爱是Agape》
+In Regards to Love: Eros＝《爱即Eros》
+In Regards to Love: Agape＝《爱即Agape》
 //其他
 Hot Springs on Ice＝温泉 on ICE
 禁翻词条
