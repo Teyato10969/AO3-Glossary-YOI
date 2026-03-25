@@ -5,6 +5,7 @@
 //主角
 Katsuki Yuuri＝胜生勇利
 Victor Nikiforov＝维克托·尼基福罗夫
+Viktor Nikiforov＝维克托·尼基福罗夫
 Yuri Plisetsky＝尤里·普利谢茨基
 //以防万一写个昵称
 Yuuri＝勇利
