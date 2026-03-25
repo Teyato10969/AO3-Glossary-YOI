@@ -3,7 +3,7 @@
 更新时间：2026-03-25
 词条
 //主角
-Katsuki Yuuri＝胜生勇利
+Katsuki Yuuri＝胜生 勇利
 Victor Nikiforov＝维克托·尼基福罗夫
 Viktor Nikiforov＝维克托·尼基福罗夫
 Yuri Plisetsky＝尤里·普利谢茨基
@@ -12,8 +12,8 @@ Yuuri＝勇利
 Yuri＝尤里
 //选手们
 Phichit Chulanont＝披集·朱拉暖
-Seung Gil Lee＝李承吉
-Jean-Jacques Leroy＝让-雅克·勒罗伊
+Seung Gil Lee＝承吉 李
+Jean-Jacques Leroy＝让·雅克·勒鲁瓦
 Otabek Altin＝奥塔别克·阿尔京
 Emil Nekola＝埃米尔·尼古拉
 Michele Crispino＝米凯莱·克里斯皮诺
@@ -21,26 +21,28 @@ Sara Crispino＝萨拉·克里斯皮诺
 Christophe Giacometti＝克里斯托夫·贾科梅蒂
 Georgi Popovich＝格奥尔基·波波维奇
 Anya＝安雅
+Mila Babicheva＝米拉·芭比切娃
 Leo de la Iglesia＝雷欧·德·拉·伊格莱西亚
-Ji Guang-Hong＝季光虹
-Minami Kenjirou＝南健次郎
+Ji Guang-Hong＝季 光虹
+Minami Kenjirou＝南 健次郎
 //教练 / 编舞 / 冰协
 Yakov Feltsman＝雅科夫·费尔兹曼
 Lilia Baranovskaya＝莉莉娅·巴拉诺夫斯卡娅
 Celestino Cialdini＝切莱斯蒂诺·查尔迪尼
 //日本·长谷津
-Katsuki Hiroko＝胜生宽子
-Katsuki Toshiya＝胜生利也
-Katsuki Mari＝胜生真利
-Nishigori Yuuko＝西郡优子
-Nishigori Takeshi＝西郡豪
-Nishigori Axel＝西郡阿克塞尔
-Nishigori Lutz＝西郡鲁兹
-Nishigori Loop＝西郡路普
-Minako Okukawa＝奥川美奈子
-Odagaki Kanako＝小田垣香奈子
+Katsuki Hiroko＝胜生 宽子
+Katsuki Toshiya＝胜生 利也
+Katsuki Mari＝胜生 真利
+Nishigori Yuuko＝西郡 优子
+Nishigori Yuko＝西郡 优子
+Nishigori Takeshi＝西郡 豪
+Nishigori Axel＝西郡 空挧流
+Nishigori Lutz＝西郡 流丽
+Nishigori Loop＝西郡 流谱
+Minako Okukawa＝奥川 美奈子
+Odagaki Kanako＝小田垣 香奈子
 //解说
-Morooka Hisashi＝诸冈久志
+Morooka Hisashi＝诸冈 久志
 通用词条
 //狗狗们
 Makkachin＝马卡钦
