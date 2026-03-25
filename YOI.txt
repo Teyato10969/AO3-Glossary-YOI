@@ -87,6 +87,10 @@ Loop＝后外结环跳
 Double Loop＝二周后外结环跳
 Triple Loop＝三周后外结环跳
 Quadruple Loop＝四周后外结环跳
+//简写
+Dbl＝二周
+Trip＝三周
+Quad＝四周
 Combination Jump＝组合跳
 Jump Sequence＝连跃
 Euler＝衔接跳
