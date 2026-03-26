@@ -10,6 +10,7 @@ Yuri Plisetsky＝尤里·普利谢茨基
 //以防万一写个昵称
 Yuuri＝勇利
 Yuri＝尤里
+Vitya＝维恰
 Guang-Hong＝光虹
 Jean＝让
 Jacques＝雅克
@@ -63,6 +64,7 @@ Sochi＝索契
 Detroit＝底特律
 //场馆&店铺
 Yu-Topia Katsuki＝乌托邦胜生
+Ice Castle＝冰之城堡
 Ice Castle Hasetsu＝长谷津冰雪城堡
 Hasetsu Castle＝长谷津城堡
 Minako's Dance Studio＝美奈子舞蹈教室
