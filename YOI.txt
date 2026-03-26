@@ -90,7 +90,7 @@ Lutz＝勾手跳
 Double Lutz＝二周勾手跳
 Triple Lutz＝三周勾手跳
 Quadruple Lutz＝四周勾手跳
-Loop＝后外结环跳
+//Loop为多释意词汇，不列入
 Double Loop＝二周后外结环跳
 Triple Loop＝三周后外结环跳
 Quadruple Loop＝四周后外结环跳
