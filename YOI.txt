@@ -134,30 +134,7 @@ Change Edge＝换刃
 Step Sequence＝接续步
 Choreographic Sequence＝编舞动作
 Base Value＝基础分
-GOE＝执行分
-TES＝技术分
-PCS＝节目内容分
-Program Component Score＝节目内容分
-Short Program＝短节目
-Free Skate＝自由滑
-Combination Jump＝组合跳
-Jump Sequence＝连跃
-Euler＝衔接跳
-Half Loop＝半周跳
-Spiral＝燕式滑行
-Biellmann Spin＝贝尔曼旋转
-Camel Spin＝燕式旋转
-Sit Spin＝蹲转
-Upright Spin＝直立旋转
-Flying Spin＝飞身旋转
-Combination Spin＝联合旋转
-Layback Spin＝后仰旋转
-Change Foot Spin＝换足旋转
-Change Edge＝换刃
-Step Sequence＝接续步
-Choreographic Sequence＝编舞动作
-Base Value＝基础分
-GOE＝执行分
+//GOE(执行分)为多释意词汇(如goes)，不列入
 TES＝技术分
 PCS＝节目内容分
 Program Component Score＝节目内容分
