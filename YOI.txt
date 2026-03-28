@@ -66,6 +66,7 @@ Sochi＝索契
 Detroit＝底特律
 //场馆&店铺
 Yu-Topia Katsuki＝乌托邦胜生
+Yu-topia＝乌托邦
 Ice Castle＝冰之城堡
 Ice Castle Hasetsu＝长谷津冰雪城堡
 Hasetsu Castle＝长谷津城堡
