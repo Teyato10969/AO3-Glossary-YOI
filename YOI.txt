@@ -7,7 +7,7 @@ Katsuki Yuuri＝胜生 勇利
 Victor Nikiforov＝维克托·尼基福罗夫
 Viktor Nikiforov＝维克托·尼基福罗夫
 Yuri Plisetsky＝尤里·普利谢茨基
-//以防万一写个昵称
+//昵称
 Yuuri＝勇利
 Yuri＝尤里
 Yurio＝尤里奥
@@ -54,6 +54,7 @@ Makkachin＝马卡钦
 Vicchan＝小维
 //地名
 Hasetsu＝长谷津
+Hatsetsu＝长谷津
 Karatsu＝唐津
 Saga Prefecture＝佐贺县
 Kyushu＝九州
