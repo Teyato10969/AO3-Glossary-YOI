@@ -41,9 +41,10 @@ Katsuki Mari＝胜生 真利
 Nishigori Yuuko＝西郡 优子
 Nishigori Yuko＝西郡 优子
 Nishigori Takeshi＝西郡 豪
-Nishigori Axel＝西郡 空挧流
-Nishigori Lutz＝西郡 流丽
-Nishigori Loop＝西郡 流谱
+//三胞胎的名字目前出现频率不高，先占坑
+//Nishigori Axel＝西郡 空挧流
+//Nishigori Lutz＝西郡 流丽
+//Nishigori Loop＝西郡 流谱
 Minako Okukawa＝奥川 美奈子
 Odagaki Kanako＝小田垣 香奈子
 //解说
